@@ -1,6 +1,10 @@
 # Base de donnees
 <img width="434" height="168" alt="image" src="https://github.com/user-attachments/assets/df8d408c-232f-4227-9b16-0993d968fdae" />
 
+# Swagger UI
+<img width="1440" height="798" alt="image" src="https://github.com/user-attachments/assets/bd92a55e-1873-4808-973c-97b004909df1" />
+
+
 # Requête GET pour obtenir la liste des comptes
 ## En JSON
 <img width="1182" height="793" alt="image" src="https://github.com/user-attachments/assets/d1437b05-05f2-4f65-8b9d-4b4306277603" />
